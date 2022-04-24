@@ -91,12 +91,6 @@
   </p>
 
 ---
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Aya74"><img alt="Aya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aya74&custom_title=Aya's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 <br/>
 
 Last Edited on: 24/4/2022
