@@ -84,7 +84,6 @@
   <br/>
   <p align="center"><img alt="Aya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aya74&show_icons=true&theme=radical" height="192px"/></a>
 <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ---
