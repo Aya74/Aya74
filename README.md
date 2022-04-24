@@ -6,14 +6,14 @@
 
 ## 💁‍♂️ About me
 
-- 🏫: I'm currently studying as `Software Engineering` student at Al-Azhar University.
+- 🏫: I'm studying as `Software Engineering` student at Al-Azhar University.
 - 💻: I'm currently learning `front-end development` and `asp.net development`.
 - 😄: Hardworking and Ambitious persone, who hope to learn more and more.
 <br>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya74" alt="Aya74" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya74&theme=radical" alt="Aya74" /></p>
 <br>
 <br>
 
@@ -82,11 +82,8 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center"><img alt="Aya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aya74&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="center"><img alt="Aya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aya74&show_icons=true&theme=radical" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aya74&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Aya74" height="192px"/>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
