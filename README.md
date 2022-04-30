@@ -11,12 +11,6 @@
 - 😄: Hardworking and Ambitious persone, who hope to learn more and more.
 <br>
 
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya74&theme=radical" alt="Aya74" /></p>
-<br>
-<br>
-
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
@@ -78,15 +72,4 @@
 
 <br/>
 
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center"><img alt="Aya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aya74&show_icons=true&theme=radical" height="192px"/></a>
-<br/>
-  </p>
-
----
-<br/>
-
-Last Edited on: 24/4/2022
+Last Edited on: 30/4/2022
