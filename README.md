@@ -6,7 +6,7 @@
 
 ## 💁‍♂️ About me
 
-- 🏫: I'm studying as `Software Engineering` student at Al-Azhar University.
+- 🏫: I'm studying as `Software Engineering` at Al-Azhar University.
 - 💻: I'm currently learning `front-end development`.
 - 😄: Hardworking and Ambitious persone, who hope to learn more and more.
 <br>
@@ -63,13 +63,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
 </p>
 
-### 👉 Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
-</p>
-
 <br/>
 
-Last Edited on: 14/5/2022
+Last Edited on: 22/5/2022
