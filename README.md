@@ -7,7 +7,7 @@
 ## 💁‍♂️ About me
 
 - 🏫: I'm studying as `Software Engineering` at Al-Azhar University.
-- 💻: I'm currently learning `front-end development`.
+- 💻: I'm currently learning `asp.net`.
 - 😄: Hardworking and Ambitious persone, who hope to learn more and more.
 <br>
 
